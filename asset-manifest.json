@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be788b10.css",
+    "main.js": "/static/js/main.e7752382.js",
+    "static/media/BMHANNAProOTF.otf": "/static/media/BMHANNAProOTF.9f97d4ea4835154f2fc9.otf",
+    "index.html": "/index.html",
+    "main.be788b10.css.map": "/static/css/main.be788b10.css.map",
+    "main.e7752382.js.map": "/static/js/main.e7752382.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be788b10.css",
+    "static/js/main.e7752382.js"
+  ]
+}
